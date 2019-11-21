@@ -2,7 +2,7 @@
   <div>
     <el-container>
 
-      <el-header>后台管理系统</el-header>
+      <el-header>后台管理系统1</el-header>
 
       <!-- 左侧边栏 -->
       <el-container>
